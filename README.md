@@ -1,85 +1,189 @@
-<!-- ============================================ -->
-<!--              PREMIUM GITHUB PROFILE          -->
-<!--                PART 1                        -->
-<!-- ============================================ -->
+<!-- ========================================================= -->
+<!--                    GITHUB PROFILE README                   -->
+<!--                     Vishakha Jha                           -->
+<!-- ========================================================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,30:6A0DAD,60:7B2CBF,100:3A0CA3&text=Vishakha%20Jha&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Embedded%20Systems%20Engineer&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0C29,50:5B21B6,100:7C3AED&text=Vishakha%20Jha&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20•%20Embedded%20Systems%20Engineer&descAlignY=60&animation=fadeIn"/>
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineer;Embedded+Systems+Engineer;Python+Developer;React+Developer;Computer+Vision+Enthusiast;Industrial+Automation;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software.;Designing+Embedded+Systems.;Computer+Vision+Developer.;Python+%7C+React+%7C+Embedded+C.;Always+Learning.+Always+Building."/>
 
 </p>
-
----
 
 <p align="center">
 
 <a href="mailto:Vishakhajha36@gmail.com">
-<img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/vishakha-jha-9b1415226">
-<img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/jhavishakha28-hub">
-<img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
----
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=jhavishakha28-hub&label=Profile%20Views&color=7B2CBF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=jhavishakha28-hub&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/jhavishakha28-hub?style=for-the-badge&color=5A189A"/>
+<img src="https://img.shields.io/github/followers/jhavishakha28-hub?style=for-the-badge&color=5B21B6"/>
 
-<img src="https://img.shields.io/github/stars/jhavishakha28-hub?affiliations=OWNER&style=for-the-badge&color=3C096C"/>
+<img src="https://img.shields.io/github/stars/jhavishakha28-hub?affiliations=OWNER&style=for-the-badge&color=4C1D95"/>
 
 </p>
 
 ---
 
-# About Me
+# Engineering Dashboard
 
-I'm **Vishakha Jha**, a **Software Engineer** with a strong foundation in **Embedded Systems, Computer Vision, Industrial Automation, and Full-Stack Development**.
+<table>
 
-I enjoy solving real-world engineering problems by combining software with hardware. My experience includes developing Python applications, React frontends, REST API integrations, OpenCV-based computer vision systems, and Embedded C firmware for intelligent devices.
+<tr>
 
-During my internships in industrial automation, I gained practical exposure to PLC and DCS systems, troubleshooting, instrumentation, system integration, and engineering documentation. These experiences strengthened my analytical thinking and reinforced the importance of building reliable, scalable engineering solutions.
+<td width="50%">
 
-I am passionate about continuous learning, open-source collaboration, and creating software that has meaningful real-world impact.
+### 👩‍💻 Role
+
+Software Engineer
+
+Embedded Systems Engineer
+
+</td>
+
+<td width="50%">
+
+### 🎓 Education
+
+B.Tech
+
+Electronics & Communication Engineering
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 💼 Experience
+
+2 Industrial Internships
+
+Industrial Automation
+
+System Integration
+
+</td>
+
+<td>
+
+### 🚀 Projects
+
+Face Recognition System
+
+Medical Drone
+
+Portfolio Website
+
+Traffic Management
+
+Virtual Instrumentation Glove
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 💻 Languages
+
+Python
+
+C
+
+C++
+
+SQL
+
+Embedded C
+
+</td>
+
+<td>
+
+### 🔬 Interests
+
+Software Engineering
+
+Computer Vision
+
+Embedded Systems
+
+Industrial Automation
+
+Backend Development
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## Open To
+# Engineering Profile
 
-- Software Engineering
-- Embedded Systems Engineering
-- Backend Development
-- Full Stack Development
-- Computer Vision
-- Industrial Automation
+I am a **Software Engineer** with a strong interest in developing intelligent software systems and embedded solutions that solve practical engineering problems.
+
+My engineering experience spans **Python**, **React.js**, **OpenCV**, **REST APIs**, **Embedded C**, **Arduino**, **ESP32**, and industrial automation technologies including **PLC** and **DCS**.
+
+Through internships in industrial automation and control systems, I have gained practical experience in system analysis, troubleshooting, instrumentation, process optimization, and technical documentation. Alongside this, I have built software projects involving computer vision, web development, embedded firmware, and hardware integration.
+
+I enjoy bridging the gap between software and hardware to create efficient, reliable, and scalable engineering solutions while continuously learning new technologies.
+
+---
+
+# What I Build
+
+✔ Intelligent Software Applications
+
+✔ Computer Vision Systems
+
+✔ Embedded Systems
+
+✔ Automation Solutions
+
+✔ Full-Stack Applications
+
+✔ Engineering Tools
+
+---
+
+# Currently Open To
+
+- Software Engineer
+- Embedded Systems Engineer
+- Backend Developer
+- Full Stack Developer
+- Computer Vision Engineer
+- Industrial Automation Engineer
 - Open Source Collaboration
 
 ---
 
-# Engineering Philosophy
+# Engineering Stack
 
-> *"Build software that is reliable, scalable, and solves real engineering problems."*
-
-I believe great engineering is built on clean architecture, continuous learning, strong documentation, and attention to detail. Whether developing a web application or an embedded prototype, I strive to create solutions that are practical, maintainable, and user-focused.
-
----
-
-# Tech Stack
-
-## Programming Languages
+## Languages
 
 <p>
 
@@ -95,7 +199,7 @@ I believe great engineering is built on clean architecture, continuous learning,
 
 ---
 
-## Frontend Development
+## Frontend
 
 <p>
 
@@ -109,21 +213,27 @@ I believe great engineering is built on clean architecture, continuous learning,
 
 ---
 
-## Backend & APIs
+## Backend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/REST_API-7C3AED?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=php"/>
+<img src="https://img.shields.io/badge/JSON-5B21B6?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=sqlite"/>
+<img src="https://img.shields.io/badge/PHP-Familiar-4C1D95?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Databases
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="https://img.shields.io/badge/REST%20API-6A0DAD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JSON-7B2CBF?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=sqlite"/>
 
 </p>
 
@@ -143,19 +253,19 @@ I believe great engineering is built on clean architecture, continuous learning,
 
 <p>
 
-<img src="https://img.shields.io/badge/Embedded%20C-5A189A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded_C-7C3AED?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/PLC-3A0CA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PLC-4C1D95?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/DCS-240046?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DCS-312E81?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Proteus-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Proteus-purple?style=for-the-badge"/>
 
 </p>
 
@@ -175,14 +285,15 @@ I believe great engineering is built on clean architecture, continuous learning,
 
 ---
 
-## Areas of Expertise
+# Engineering Focus
 
-| Domain | Focus |
-|---------|-------|
-| Software Engineering | Python, React, REST APIs |
-| Embedded Systems | Arduino, ESP32, Embedded C |
-| Computer Vision | OpenCV, Face Recognition |
+| Domain | Technologies |
+|---------|--------------|
+| Software Engineering | Python, React.js, REST APIs |
+| Backend Development | JSON, PHP, SQLite |
 | Databases | MySQL, SQLite |
+| Computer Vision | OpenCV, Face Recognition |
+| Embedded Systems | Arduino, ESP32, Embedded C |
 | Industrial Automation | PLC, DCS, Instrumentation |
 | Version Control | Git, GitHub |
 
@@ -190,102 +301,123 @@ I believe great engineering is built on clean architecture, continuous learning,
 
 <p align="center">
 
-### *"Turning ideas into intelligent software and embedded solutions."*
+### *"Building Intelligent Software & Embedded Solutions for Real-World Engineering Problems."*
 
 </p>
 
 ---
----
 
-# AI / ML & Engineering Expertise
-
-<table align="center">
-<tr>
-<th width="25%">Domain</th>
-<th width="15%">Level</th>
-<th>Details</th>
-</tr>
-
-<tr>
-<td><b>Computer Vision</b></td>
-<td>★★★★☆</td>
-<td>OpenCV, Face Recognition, Image Processing, Attendance Automation</td>
-</tr>
-
-<tr>
-<td><b>Software Development</b></td>
-<td>★★★★☆</td>
-<td>Python, React.js, REST APIs, SQLite, MySQL, Git</td>
-</tr>
-
-<tr>
-<td><b>Embedded Systems</b></td>
-<td>★★★★☆</td>
-<td>Embedded C, Arduino, ESP32, Sensor Interfacing, GSM, GPS</td>
-</tr>
-
-<tr>
-<td><b>Industrial Automation</b></td>
-<td>★★★★☆</td>
-<td>PLC, DCS, Instrumentation, Process Monitoring, Troubleshooting</td>
-</tr>
-
-<tr>
-<td><b>Problem Solving</b></td>
-<td>★★★★★</td>
-<td>Debugging, System Integration, Validation, Optimization</td>
-</tr>
-
-</table>
+````markdown
+<!-- ========================================================= -->
+<!--              FEATURED ENGINEERING PROJECTS                 -->
+<!-- ========================================================= -->
 
 ---
 
 # Featured Engineering Projects
 
-> Every project below reflects practical engineering experience and demonstrates software development, embedded systems, automation, or computer vision concepts.
+> A collection of software, computer vision, embedded systems, and automation projects focused on solving real-world engineering problems.
 
 ---
+
+# 💻 Software Engineering
 
 <details open>
 
 <summary>
 
-## 🎯 Face Recognition Attendance System
+## Face Recognition Attendance Platform
+
+**Python • OpenCV • React.js • SQLite**
 
 </summary>
 
 ### Overview
 
-Developed an intelligent attendance management platform combining **Python**, **OpenCV**, **React.js**, and **SQLite** to automate attendance recording using facial recognition. The system eliminates manual attendance processes and provides structured attendance reports through an interactive dashboard.
+Designed and developed a full-stack attendance platform that automates attendance recording using facial recognition. The application combines a Python/OpenCV recognition engine with a React dashboard and SQLite database to eliminate manual attendance workflows.
 
-| Category | Details |
-|----------|---------|
-| **Domain** | Computer Vision |
-| **Tech Stack** | Python, OpenCV, React.js, SQLite, JSON |
-| **Architecture** | Full Stack |
-| **Users Tested** | 7 |
-| **Recognition Dataset** | 20–22 Images |
-| **Recognition Accuracy** | 75% |
-| **Database** | SQLite |
-| **Export Format** | CSV |
-| **Status** | Completed |
+---
+
+### Problem
+
+Traditional attendance systems rely on manual entry, making them time-consuming, error-prone, and difficult to manage at scale.
+
+---
+
+### Solution
+
+Built an intelligent attendance platform capable of:
+
+- Detecting and recognizing faces
+- Recording attendance automatically
+- Storing attendance history
+- Exporting attendance reports
+- Displaying results through a modern web interface
+
+---
+
+### System Architecture
+
+```text
+        Camera
+           │
+           ▼
+ OpenCV Face Detection
+           │
+           ▼
+ Face Recognition Engine
+           │
+           ▼
+     SQLite Database
+           │
+           ▼
+    React Dashboard
+           │
+           ▼
+      CSV Export
+````
+
+---
+
+### Technology Stack
+
+| Layer         | Technology |
+| ------------- | ---------- |
+| Frontend      | React.js   |
+| Backend       | Python     |
+| AI            | OpenCV     |
+| Database      | SQLite     |
+| Data Exchange | JSON       |
+
+---
 
 ### Key Features
 
-- Real-time face detection using OpenCV
-- Automated attendance logging
-- Timestamp recording
-- CSV report generation
-- React dashboard
-- JSON data communication
-- SQLite database integration
+* Face recognition-based attendance
+* Automatic timestamp recording
+* React-based dashboard
+* SQLite data storage
+* CSV report export
+* Structured JSON communication
+
+---
 
 ### Engineering Highlights
 
-- Reduced manual attendance recording for the pilot group
-- Designed modular frontend/backend interaction
-- Implemented structured JSON communication
-- Improved recognition performance through iterative debugging
+* Implemented a modular frontend/backend architecture
+* Automated attendance logging to reduce manual effort
+* Improved recognition performance through iterative debugging
+* Designed reusable UI components for maintainability
+
+---
+
+### Future Improvements
+
+* Multi-user authentication
+* Cloud deployment
+* Face embedding models for higher accuracy
+* Live camera streaming
+* Attendance analytics dashboard
 
 </details>
 
@@ -295,170 +427,251 @@ Developed an intelligent attendance management platform combining **Python**, **
 
 <summary>
 
-## 🌐 Personal Portfolio Website
+## Developer Portfolio Website
+
+**React.js • HTML5 • CSS3**
 
 </summary>
 
 ### Overview
 
-Designed and developed a responsive personal portfolio website showcasing projects, technical skills, certifications, and engineering experience using React.js.
+Designed and developed a responsive portfolio website to showcase projects, technical skills, certifications, and engineering experience.
 
-| Category | Details |
-|----------|---------|
-| **Tech Stack** | React.js, HTML5, CSS3 |
-| **Architecture** | Component Based |
-| **Design** | Responsive |
-| **Deployment** | Ready |
+---
 
-### Features
+### Highlights
 
-- Responsive layout
-- Component-based architecture
-- Modern UI
-- Project showcase
-- Skills section
-- Contact section
+* Component-based React architecture
+* Responsive layout
+* Clean UI design
+* Reusable components
+* Optimized user experience
 
-### Engineering Highlights
+---
 
-- Reusable React components
-- Responsive web design
-- Clean folder structure
-- Scalable frontend architecture
+### Future Scope
+
+* Blog integration
+* Dark/Light mode
+* Project filtering
+* GitHub API integration
+* Contact backend
 
 </details>
 
 ---
+
+# 🤖 Embedded Systems
 
 <details>
 
 <summary>
 
-## 🤖 Virtual Instrumentation Glove for Speech Assistance
+## Smart Gesture-to-Speech Assistive System
+
+**Arduino • Embedded C • GSM**
 
 </summary>
 
 ### Overview
 
-Developed an embedded assistive device capable of recognizing predefined hand gestures using flex sensors and converting them into speech while providing emergency communication capabilities.
-
-| Category | Details |
-|----------|---------|
-| **Microcontroller** | Arduino Uno |
-| **Sensors** | 5 Flex Sensors |
-| **Recognized Gestures** | 10 |
-| **Communication** | GSM |
-| **Programming** | Embedded C |
-
-### Features
-
-- Gesture Recognition
-- Speech Output
-- SOS Alert
-- Sensor Calibration
-- Embedded Firmware
-
-### Engineering Highlights
-
-- Embedded C firmware development
-- Sensor interfacing
-- Hardware debugging
-- Functional validation
-- GSM integration
-
-</details>
+Developed an embedded assistive system capable of recognizing predefined hand gestures using flex sensors and converting them into speech while providing emergency communication capabilities.
 
 ---
 
-<details>
-
-<summary>
-
-## 🚁 Medical Drone for Emergency Healthcare
-
-</summary>
-
-### Overview
-
-Designed and assembled a prototype medical drone capable of supporting emergency medicine delivery through GPS-enabled navigation and embedded communication modules.
-
-| Category | Details |
-|----------|---------|
-| **Platform** | Arduino + ESP32 |
-| **Communication** | GSM |
-| **Navigation** | GPS |
-| **Application** | Healthcare |
-
-### Features
-
-- GPS Navigation
-- GSM Communication
-- Embedded Hardware
-- Sensor Integration
-- Route Planning
-
-### Engineering Highlights
-
-- Embedded hardware integration
-- GPS mapping concepts
-- Hardware debugging
-- Prototype validation
-- Team collaboration
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-## 🚦 Advanced Traffic Management System
-
-</summary>
-
-### Overview
-
-Built an adaptive traffic management system capable of dynamically optimizing traffic signal timing using OpenCV image processing and Arduino-based signal control.
-
-| Category | Details |
-|----------|---------|
-| **Computer Vision** | OpenCV |
-| **Programming** | Python |
-| **Controller** | Arduino |
-| **Application** | Smart Traffic |
-
-### Features
-
-- Vehicle Detection
-- Density Analysis
-- Adaptive Signal Timing
-- Emergency Vehicle Priority
-- Automated Signal Control
-
-### Engineering Highlights
-
-- Image-processing workflow
-- Real-time density estimation
-- Hardware integration
-- Traffic optimization logic
-
-</details>
-
----
-
-# Engineering Interests
+### Hardware Architecture
 
 ```text
-• Software Engineering
-• Embedded Systems
-• Computer Vision
-• Artificial Intelligence
-• Industrial Automation
-• Backend Development
-• Full Stack Development
-• IoT Systems
-• Open Source
+Flex Sensors
+      │
+      ▼
+ Arduino Uno
+      │
+      ├────────► Speaker
+      │
+      └────────► GSM Module
+                   │
+                   ▼
+             Emergency Contact
 ```
 
 ---
+
+### Technology Stack
+
+| Component     | Technology   |
+| ------------- | ------------ |
+| Controller    | Arduino Uno  |
+| Firmware      | Embedded C   |
+| Sensors       | Flex Sensors |
+| Communication | GSM          |
+
+---
+
+### Features
+
+* Gesture recognition
+* Speech generation
+* SOS messaging
+* Sensor calibration
+* Embedded firmware
+
+---
+
+### Engineering Highlights
+
+* Sensor interfacing
+* Firmware development
+* Hardware debugging
+* Functional validation
+* Embedded communication
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## Emergency Medical Delivery Drone
+
+**Arduino • ESP32 • GPS • GSM**
+
+</summary>
+
+### Overview
+
+Built a prototype drone for emergency healthcare applications capable of supporting rapid medicine delivery using GPS navigation and GSM communication.
+
+---
+
+### System Architecture
+
+```text
+GPS
+ │
+ ▼
+
+ESP32
+ │
+ ▼
+
+Arduino
+ │
+ ▼
+
+Motors + Sensors
+ │
+ ▼
+
+Medical Delivery
+```
+
+---
+
+### Features
+
+* GPS navigation
+* GSM communication
+* Embedded hardware integration
+* Route planning concepts
+* Sensor interfacing
+
+---
+
+### Engineering Highlights
+
+* Hardware integration
+* GPS communication
+* Prototype testing
+* Team collaboration
+* Embedded debugging
+
+</details>
+
+---
+
+# 🚦 Automation & Computer Vision
+
+<details>
+
+<summary>
+
+## AI-Based Adaptive Traffic Management System
+
+**Python • OpenCV • Arduino**
+
+</summary>
+
+### Overview
+
+Designed an adaptive traffic management system capable of optimizing signal timing using computer vision and Arduino-based traffic light control.
+
+---
+
+### Workflow
+
+```text
+Traffic Camera
+      │
+      ▼
+Vehicle Detection
+      │
+      ▼
+Density Analysis
+      │
+      ▼
+Decision Engine
+      │
+      ▼
+Arduino Controller
+      │
+      ▼
+Traffic Signal
+```
+
+---
+
+### Features
+
+* Vehicle detection
+* Density estimation
+* Adaptive signal timing
+* Emergency vehicle prioritization
+* Automated traffic control
+
+---
+
+### Engineering Highlights
+
+* OpenCV image processing
+* Arduino integration
+* Density-based decision logic
+* Hardware/software integration
+
+---
+
+### Future Improvements
+
+* YOLO object detection
+* Smart city integration
+* Cloud dashboard
+* Live analytics
+* IoT connectivity
+
+</details>
+
+---
+
+<p align="center">
+
+### *Engineering is not just writing code — it's solving problems through thoughtful design, reliable systems, and continuous improvement.*
+
+</p>
+
+---
+
+```
+```
+
